@@ -27,7 +27,7 @@ The tutoring session delved ~~into the intricacies~~ of point of view in literat
 **Topics Covered:**
 1. Point of View in Literature
    - Examined first, second, and third-person perspectives
-   - Focused on pronoun usage for identification
+   - Focused on _pronoun usage_ for identification
    - Analyzed text examples to determine narrative voice
 2. Types of Third-Person Narration
    - Explored omniscient, limited, and objective perspectives
