@@ -454,23 +454,23 @@ export const useCreateEditor = () => {
       MarkdownPlugin.configure({ options: { indentList: true } }),
       JuicePlugin,
     ],
-    value: [
-      {
-        id: '1',
-        children: [{ text: 'Playground' }],
-        type: 'h1',
-      },
-      {
-        id: '2',
-        children: [
-          { text: 'A rich-text editor with AI capabilities. Try the ' },
-          { bold: true, text: 'AI commands' },
-          { text: ' or use ' },
-          { kbd: true, text: 'Cmd+J' },
-          { text: ' to open the AI menu.' },
-        ],
-        type: ParagraphPlugin.key,
-      },
-    ],
+    // value: [
+    //   {
+    //     id: '1',
+    //     children: [{ text: 'Playground' }],
+    //     type: 'h1',
+    //   },
+    //   {
+    //     id: '2',
+    //     children: [
+    //       { text: 'A rich-text editor with AI capabilities. Try the ' },
+    //       { bold: true, text: 'AI commands' },
+    //       { text: ' or use ' },
+    //       { kbd: true, text: 'Cmd+J' },
+    //       { text: ' to open the AI menu.' },
+    //     ],
+    //     type: ParagraphPlugin.key,
+    //   },
+    // ],
   });
 };
